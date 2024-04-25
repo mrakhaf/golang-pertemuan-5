@@ -1,4 +1,4 @@
-module github.com/username/golang-pertemuan-5
+module github.com/mrakhaf/golang-pertemuan-5
 
 go 1.16
 
